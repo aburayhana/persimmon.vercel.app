@@ -1,4 +1,4 @@
-baseURL = "https://persimmon.vercel.app"
+baseURL = "https://persimmons.vercel.app"
 languageCode = "en-us"
 title = "Nice Recipe"
 theme = "z"
